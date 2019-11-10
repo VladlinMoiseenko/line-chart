@@ -1,0 +1,2 @@
+include ':sample', ':linechart'
+rootProject.name='line-chart'

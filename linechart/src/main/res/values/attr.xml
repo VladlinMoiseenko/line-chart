@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="LineChartView">
+        <attr name="lc_lineСolor" format="string" />
+        <attr name="lc_cursorColor" format="string" />
+        <attr name="lc_lineWidth" format="integer" />
+        <attr name="lc_cursorWidth" format="integer" />
+        <attr name="lc_circleRadius" format="integer" />
+    </declare-styleable>
+</resources>
